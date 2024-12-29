@@ -19,3 +19,6 @@ third_party
 speed_logs
 pred
 pred_e
+
+.idea
+.vscode
